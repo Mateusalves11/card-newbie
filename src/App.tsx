@@ -1,7 +1,11 @@
+import { Card } from "components/Card/index";
+import { Container } from "components/Container";
+
 function App() {
   return (
-    <div className="App">
-    </div>
+    <Container>
+      <Card />
+    </Container>
   );
 }
 
