@@ -10,7 +10,7 @@ export const Card = styled.div`
     grid-template-columns: 50% 50%;
     border-radius: 14px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-    @media (max-width: 768px) {
+    @media (max-width: 840px) {
         grid-template-columns: 100%;
     }
 `
