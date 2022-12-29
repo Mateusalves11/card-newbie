@@ -1,3 +1,4 @@
 export type ImageCardProps = {
-    image: string;
+    imgMobile: string;
+    imgDesktop: string;
 }
