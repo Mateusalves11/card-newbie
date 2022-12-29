@@ -8,7 +8,7 @@ export const InformationCard = styled.div`
     background-color: hsl(0, 0%, 100%);
     border-radius: 0px 14px 14px 0px;
     font-family: 'Montserrat', sans-serif;
-    @media (max-width: 768px) {
+    @media (max-width: 840px) {
         border-radius: 0px 0px 14px 14px;
     }
 `
